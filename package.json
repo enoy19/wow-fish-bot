@@ -1,0 +1,17 @@
+{
+  "name": "wow-fish-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "enoy19",
+  "license": "MIT",
+  "dependencies": {
+    "@types/pngjs": "^3.4.2",
+    "pngjs": "^5.0.0",
+    "robotjs": "^0.6.0",
+    "screenshot-desktop": "^1.12.1"
+  }
+}
